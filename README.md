@@ -1,4 +1,6 @@
 #REF: https://developers.google.com/analytics/devguides/collection/android/v4/start#
+https://github.com/googlesamples/google-services
+
 1. Create a Google Analytics Account (www.google.com/analytics/)
 2. Create a New Android Application Project
 3. Import Google Play Services in your project
