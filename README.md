@@ -1,5 +1,7 @@
-#REF: https://developers.google.com/analytics/devguides/collection/android/v4/start#
+#REF: https://developers.google.com/analytics/devguides/collection/android/v4/app#
+https://developers.google.com/analytics/devguides/collection/android/v4/#manifest
 https://github.com/googlesamples/google-services
+https://developers.google.com/mobile/add?platform=android&cntapi=analytics&cnturl=https:%2F%2Fdevelopers.google.com%2Fanalytics%2Fdevguides%2Fcollection%2Fandroid%2Fv4%2Fapp%3Fconfigured%3Dtrue&cntlbl=Continue%20Adding%20Analytics
 
 1. Create a Google Analytics Account (www.google.com/analytics/)
 2. Create a New Android Application Project
